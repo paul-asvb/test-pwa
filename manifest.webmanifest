@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
+  "name": "pauls pwa test",
   "short_name": "Test PWA",
   "start_url": "/index.html"
 }
